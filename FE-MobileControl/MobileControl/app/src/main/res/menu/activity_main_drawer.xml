@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <!--<item-->
+            <!--android:id="@+id/nav_ofertaAcademica"-->
+            <!--android:icon="@android:drawable/ic_menu_sort_by_size"-->
+            <!--android:title="Oferta Academica" />-->
+        <!--<item-->
+            <!--android:id="@+id/nav_matricula"-->
+            <!--android:icon="@android:drawable/ic_menu_sort_by_size"-->
+            <!--android:title="Matricula" />-->
+    </group>
+
+    <item android:title="Mantenimientos">
+        <menu>
+            <item
+                android:id="@+id/nav_clientes"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Clientes" />
+
+            <item
+                android:id="@+id/nav_agencias"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Agencias" />
+
+            <item
+                android:id="@+id/nav_vehiculos"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Vehículos" />
+
+            <item
+                android:id="@+id/nav_reservas"
+                android:icon="@android:drawable/ic_menu_sort_by_size"
+                android:title="Reservas" />
+
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>

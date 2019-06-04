@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rent A Car</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="buttonListar">Listar Estudiantes</string>
+    <string name="buttonAgregar">Agregar Estudiante</string>
+    <string name="buttonEliminar">Eliminar Estudiante</string>
+    <string name="buttonConsultar">Consultar Estudiante</string>
+    <string name="buttonModificar">Modificar Estudiante</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_adm_vehiculo">AdmVehiculoActivity</string>
+    <string name="codigo">Código del Vehiculo</string>
+    <string name="capacidad">Capacidad del Vehículo</string>
+    <string name="placa">Placa del Vehículo</string>
+    <string name="descripcionV">Descripción del Vehículo</string>
+    <string name="preciov">Precio del Vehículo</string>
+    <string name="clasificacion">Clasificación</string>
+    <string name="transmision">Transmisión</string>
+    <string name="marca">Marca</string>
+    <string name="title_activity_adm_reserva">AdmReservaActivity</string>
+    <string name="codigor">Código de la Reserva</string>
+    <string name="txtViewAgencia">Agencia</string>
+    <string name="txtViewCliente">Cliente</string>
+    <string name="txtViewVehiculo">Vehiculo</string>
+</resources>
